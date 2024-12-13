@@ -30,6 +30,8 @@
 <img src="https://github.com/user-attachments/assets/5bfe3425-1cb8-4726-8d2b-373368f01f11" alt="wechat" width="200" height="200" />
 <img src="https://github.com/user-attachments/assets/4f5fe6d6-d7d5-4b36-9a73-72928f687276" alt="alipay" width="200" height="200" />
 
+捐赠留邮箱！捐赠留邮箱！捐赠留邮箱！
+
 # 5. 样章展示
 ## 5.1. 目录截图
 <img src="https://github.com/user-attachments/assets/9dd5dab9-763a-4813-aa72-8190ab000c38" alt="目录" width="800" />
