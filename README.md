@@ -14,8 +14,6 @@
 
 + Github 仓库：[https://github.com/chenyz1984/FluentPython2ndCN](https://github.com/chenyz1984/FluentPython2ndCN)
 
-+ Gitee 仓库：[https://gitee.com/chenyingzi/FluentPython2ndCN](https://gitee.com/chenyingzi/FluentPython2ndCN)
-
 # 3. 错误纠正
 
 因个人精力有限，在翻译的过程中难免会出现些错误与疏漏。如在阅读过程中，发现错误，欢迎 [积极提交 issues](https://github.com/chenyz1984/FluentPython2ndCN/issues)。
