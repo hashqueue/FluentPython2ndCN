@@ -1,3 +1,11 @@
+<!--
+ * @Author: ChenYingzi chenyingzi1984@outlook.com
+ * @Date: 2024-12-03 13:36:25
+ * @LastEditors: ChenYingzi chenyingzi1984@outlook.com
+ * @LastEditTime: 2025-02-26 11:46:33
+ * @FilePath: \FluentPython2ndCN\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 
 # 1. 翻译说明
 
@@ -8,7 +16,7 @@
 4. 对某些可能翻译不太准确的内容，在脚注中增加了英文原文。
 
 >**【提示】**
-> 文档打开密码为：119554488，捐赠 9.9+(备注留邮箱与书名）可**去除密码**。
+> 文档打开密码为：`P@ssW0rd_119554488`，捐赠 9.9+（注留邮箱与书名）可**去除密码**。
 
 # 2. 仓库地址
 
